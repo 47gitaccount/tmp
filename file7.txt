@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Line added in master branch. 
-=======
-It was modified in Branch BR-3.
->>>>>>> BR-3
+These  are new changes we are commiting. 
